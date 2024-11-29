@@ -1,0 +1,1 @@
+/ip firewall address-list remove [find where address="good.googleapis.com"];
